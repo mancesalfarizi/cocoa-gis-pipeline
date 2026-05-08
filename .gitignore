@@ -1,0 +1,11 @@
+data/ 
+*.html 
+*.png 
+venv/ 
+__pycache__/ 
+*.pyc 
+.ipynb_checkpoints/ 
+temp_merged.tif 
+*.tif 
+pipeline_v1.py 
+*.ipynb 
