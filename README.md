@@ -66,7 +66,7 @@ These provinces represent the core of Indonesia's cocoa belt — responsible for
 ### Annual Tree Loss Chart
 `tree_loss_sulteng.png` — bar chart of annual tree cover loss in Sulawesi Tengah (2001–2023), with El Niño peak annotated.
 
-![Chart preview](assets/chart_preview.png)
+![Chart preview](assets/tree_loss_sulteng.png)
 
 ---
 
